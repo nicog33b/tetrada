@@ -11,10 +11,10 @@ const Nosotros = () => {
         </h2>
         <p className="text-lg text-gray-700 mb-6">
           Marshal McLuhan, en el final de su carrera, hizo un aporte innovador: el concepto de{' '}
-          <span className="font-semibold">tétrada</span>. "Las leyes de los medios en forma de
+          <span className="font-semibold">tétrada</span>Las leyes de los medios en forma de
           tétrada pertenecen a la retórica y la gramática, no a la filosofía. Nuestro estudio se
           basa en etimología y exégesis. El motivo de esto es colocar los estudios de los artefactos
-          en un plano humanístico y lingüístico por primera vez". (McLuhan y McLuhan, 1992).
+          en un plano humanístico y lingüístico por primera vez. (McLuhan y McLuhan, 1992).
         </p>
         <p className="text-lg text-gray-700 mb-12">
           En el centro del concepto de tétrada está el artefacto, y se delimita por cuatro lados:
@@ -66,7 +66,7 @@ const Nosotros = () => {
               ¿Qué invierte el nuevo proceso de marketing?
             </h3>
             <p className="text-lg text-gray-700">
-              Pasa del marketing del "mass media" propio del siglo XX, al de creación de contenidos y
+              Pasa del marketing del mass media propio del siglo XX, al de creación de contenidos y
               de gestión de los datos de los usuarios y clientes. Y así genera una comunidad
               interesada en soluciones de marketing locales y globales.
             </p>
